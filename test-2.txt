@@ -1,2 +1,3 @@
 pdfxyz
+gif
 jpg
