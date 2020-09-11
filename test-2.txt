@@ -1,4 +1,4 @@
 pdfxyz
 gif
-jpeg
+jpeg100
 123
